@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align='center'>
+ ## Boo!👻
+</p>
 <!--
 **Tanakrit-Thongpeng/Tanakrit-Thongpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
