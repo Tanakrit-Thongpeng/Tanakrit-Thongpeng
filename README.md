@@ -1,4 +1,4 @@
-<h1 align="center">Boo!👻 I'm Tae</h1>
+<h1 align="center">Boo!👻 I'm Tae👽</h1>
 <h3 align="center">Data Analyst • Data Engineer⚙️</h3>
 
 <br>
