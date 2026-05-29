@@ -1,4 +1,7 @@
-<h1 align="center">Boo!👻</h1>
+<h1 align="center">Boo!👻 I'm Tae</h1>
+<h3 align="center">Data Analyst • Data Engineer⚙️</h3>
+
+<br>
 <!--
 **Tanakrit-Thongpeng/Tanakrit-Thongpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
